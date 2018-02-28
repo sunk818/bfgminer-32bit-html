@@ -1,0 +1,1 @@
+# bfgminer-32bit-html
